@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-*Currently the project is shifted to BlogPage repository. Please refer to this [link](https://github.com/shtgl/BlogPage). It will redirect to the repository respectively.*
-
 ## Ouput
 <div align="center">
   <img src="img/week60.png">
